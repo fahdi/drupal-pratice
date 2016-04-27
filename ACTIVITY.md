@@ -10,3 +10,8 @@
 3. 01:23 Composer update to get the updated packages and also to update the .lock file.
 4. Gitignore update
 
+
+**April 27**
+1. 02:55 Finally some code pushing.
+2. 03:23 Figuring out the drupal update.
+3. 05:17 Updated via wildcard in composer
